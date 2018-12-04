@@ -1,0 +1,23 @@
+.font-25 {
+  font-size: 25px !important;
+}
+
+.font-32 {
+  font-size: 32px !important;
+}
+
+.bg-black {
+  background-color: black
+}
+
+.menu-color ul li a{
+  color: white !important
+}
+
+.active {
+  background-color: gray;
+}
+
+.home {
+  color: white;
+}
